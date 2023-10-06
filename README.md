@@ -43,6 +43,7 @@ print("The most likely sequence of weather states is:",most_likely_sequence)
 ## Output:
 ![image](https://github.com/Syam-tej/Experiment-3--Hidden-Markov-Model/assets/93427224/ec1bc2dd-0157-42f7-bce7-987f8c2e28a1)
 
+![image](https://github.com/Syam-tej/Experiment-3--Hidden-Markov-Model/assets/93427224/a922de2b-a6ce-4a9d-b0c1-294421b6bef8)
 
 
 ## Result:
